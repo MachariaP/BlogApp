@@ -1,7 +1,10 @@
 ```markdown
 # Django Blog Post App
 
-A simple yet powerful Django application that allows users to create, read, update, and delete blog posts. It features user registration and authentication, enabling a personalized blogging experience. Whether you're a beginner or an experienced Django developer, this app provides a solid foundation for building your own blog or learning Django's capabilities.
+A simple yet powerful Django application that allows users to create, read, update, and delete blog posts.
+It features user registration and authentication, enabling a personalized blogging experience.
+Whether you're a beginner or an experienced Django developer,
+this app provides a solid foundation for building your own blog or learning Django's capabilities.
 
 ## Table of Contents
 
