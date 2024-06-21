@@ -6,15 +6,6 @@ It features user registration and authentication, enabling a personalized bloggi
 Whether you're a beginner or an experienced Django developer,
 this app provides a solid foundation for building your own blog or learning Django's capabilities.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Chapter Topics](#chapter-topics)
-
 ## Features
 
 - **User Registration and Authentication:** Securely register users and manage authentication.
